@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable indes called stage.
 Git tarcks change of files.
 123
+Creating a new branch is quick AND simple.
